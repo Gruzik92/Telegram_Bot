@@ -483,7 +483,7 @@ def job_send_scheduled_announcements():
 [![Історичний факт](docs/screenshots/History.png)](docs/screenshots/History.png)
 
 ### Відео із соцмереж
-[![Відео](docs/screenshots/Vide.png)](docs/screenshots/Vide.png)
+[![Відео](docs/screenshots/Video.png)](docs/screenshots/Video.png)
 
 ### Експертна відповідь
 [![Експертна відповідь](docs/screenshots/Expert.png)](docs/screenshots/Expert.png)
