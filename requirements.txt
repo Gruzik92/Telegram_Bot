@@ -1,0 +1,10 @@
+pyTelegramBotAPI 
+psycopg2-binary
+requests
+beautifulsoup4
+matplotlib
+wordcloud
+schedule
+Flask
+openai>=1.0.0
+gunicorn
