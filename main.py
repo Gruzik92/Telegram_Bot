@@ -1901,3 +1901,4 @@ logging.info(f"[{datetime.now()}] Flask app configured to handle Gunicorn.")
 
 logging.info(f"[{datetime.now()}] Number of registered message_handlers: 0 (handled by direct webhook processing)")
 logging.info(f"[{datetime.now()}] Кількість зареєстрованих callback_query_handlers: 0")
+
