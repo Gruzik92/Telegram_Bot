@@ -39,7 +39,6 @@ if not DATABASE_URL:
 db_manager.database_url = DATABASE_URL # Переконаємося, що URL встановлено коректно
 db_manager.create_tables() # Створити таблиці, якщо їх немає (ідємпотентна операція)
 
-
 def scheduled_job_wrapper(job_func, job_name_base, slot_name=None, check_condition=None):
     """
     Generic wrapper for scheduled jobs to handle idempotency and conditional execution.
